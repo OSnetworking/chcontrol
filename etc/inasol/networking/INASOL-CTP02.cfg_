@@ -1,0 +1,34 @@
+###############################################################################
+#
+# INASOL-CTP02.CFG - MONITOREO DEL ROUTER MICROTIK EN CTP02
+#
+###############################################################################
+
+
+###############################################################################
+#
+# DEFINICIÓN DEL HOST
+#
+###############################################################################
+
+define host{
+        use                     uninformed-host
+        host_name               INASOL-CTP02
+        alias                   INASOL-CTP02
+        address                 143.137.148.8
+        }
+
+###############################################################################
+#
+# DEFINICION DE SERVICIOS
+#
+###############################################################################
+
+# Define un servicio que verifica el ancho de banda del puerto SFP del router INASOL-CTP02
+
+#define service{
+#        use                     inasol-service
+#        host_name               INASOL-CTP02
+#        service_description     INASOL - CTP02
+#        check_command           check_iftraffic! -C INASOLcommRo -i 13 -B -b 100 -u m -c 90 -w 75
+#        }

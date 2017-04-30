@@ -1,0 +1,19 @@
+###############################################################################
+#
+# HOSTGROUP-INASOL.CFG - DEFINICION DE LOS GRUPOS DE HOST PARA MONITOREO INASOL
+#
+###############################################################################
+
+# Define un grupo de host para los equipos de INASOL instalados en PLAZA DOMUS
+define hostgroup{
+        hostgroup_name  INASOL-DOMUS
+        alias           INASOL [PLAZA DOMUS]
+        members         INASOL-OFICINA, INASOL-CyM_ABOGADOS
+        }
+
+# Define un grupo de host para los equipos de INASOL instalados en CIS
+define hostgroup{
+        hostgroup_name  INASOL-CIS
+        alias           INASOL [CIS]
+        members         INASOL-BGP01, INASOL-VOICE 
+        }

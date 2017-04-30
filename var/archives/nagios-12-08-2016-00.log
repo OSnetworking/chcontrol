@@ -1,0 +1,1238 @@
+[1481086800] LOG ROTATION: DAILY
+[1481086800] LOG VERSION: 2.0
+[1481086800] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1481086800] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.01, 0.05
+[1481086800] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1481086800] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 663 bytes in 0.002 second response time
+[1481086800] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1481086800] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 501981 MB (99% inode=99%):
+[1481086800] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1 (protocol 2.0)
+[1481086800] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (8191 MB out of 8191 MB)
+[1481086800] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 75 processes with STATE = RSZDT
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086800] TIMEPERIOD TRANSITION: none;0;0
+[1481086800] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086800] TIMEPERIOD TRANSITION: workhours;0;0
+[1481086800] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086800] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086800] TIMEPERIOD TRANSITION: none;0;0
+[1481086800] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086800] TIMEPERIOD TRANSITION: workhours;0;0
+[1481088298] Auto-save of retention data completed successfully.
+[1481091898] Auto-save of retention data completed successfully.
+[1481095498] Auto-save of retention data completed successfully.
+[1481099098] Auto-save of retention data completed successfully.
+[1481102698] Auto-save of retention data completed successfully.
+[1481106298] Auto-save of retention data completed successfully.
+[1481109898] Auto-save of retention data completed successfully.
+[1481113498] Auto-save of retention data completed successfully.
+[1481117098] Auto-save of retention data completed successfully.
+[1481119206] TIMEPERIOD TRANSITION: workhours;0;1
+[1481120698] Auto-save of retention data completed successfully.
+[1481124298] Auto-save of retention data completed successfully.
+[1481127898] Auto-save of retention data completed successfully.
+[1481131498] Auto-save of retention data completed successfully.
+[1481135098] Auto-save of retention data completed successfully.
+[1481138698] Auto-save of retention data completed successfully.
+[1481142298] Auto-save of retention data completed successfully.
+[1481145898] Auto-save of retention data completed successfully.
+[1481148004] TIMEPERIOD TRANSITION: workhours;1;0
+[1481149498] Auto-save of retention data completed successfully.
+[1481153098] Auto-save of retention data completed successfully.
+[1481155690] Caught SIGTERM, shutting down...
+[1481155690] Successfully shutdown... (PID=28218)
+[1481155690] Event broker module 'NERD' deinitialized successfully.
+[1481155690] livestatus: Socket thread has terminated
+[1481155690] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481155752] Nagios 4.2.1 starting... (PID=8604)
+[1481155752] Local time is Wed Dec 07 19:09:12 EST 2016
+[1481155752] LOG VERSION: 2.0
+[1481155752] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481155752] qh: core query handler registered
+[1481155752] nerd: Channel hostchecks registered successfully
+[1481155752] nerd: Channel servicechecks registered successfully
+[1481155752] nerd: Channel opathchecks registered successfully
+[1481155752] nerd: Fully initialized and ready to rock!
+[1481155752] wproc: Successfully registered manager as @wproc with query handler
+[1481155752] wproc: Registry request: name=Core Worker 8606;pid=8606
+[1481155752] wproc: Registry request: name=Core Worker 8607;pid=8607
+[1481155752] wproc: Registry request: name=Core Worker 8609;pid=8609
+[1481155752] wproc: Registry request: name=Core Worker 8608;pid=8608
+[1481155752] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481155752] livestatus: Please visit us at http://mathias-kettner.de/
+[1481155752] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481155752] livestatus: Please visit OMD at http://omdistro.org
+[1481155752] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481155752] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481155752] Successfully launched command file worker with pid 8610
+[1481155752] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481155752] TIMEPERIOD TRANSITION: 8x5;-1;0
+[1481155752] TIMEPERIOD TRANSITION: feriados-cr;-1;0
+[1481155752] TIMEPERIOD TRANSITION: vacaciones;-1;0
+[1481155758] SERVICE ALERT: FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155783] wproc: Core Worker 8607: job 0 (pid=8623) timed out. Killing it
+[1481155783] wproc: CHECK job 0 from worker Core Worker 8607 timed out after 30.01s
+[1481155783] wproc:   host=FTTH-AFZ01; service=(null);
+[1481155783] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481155783] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481155783] HOST ALERT: FTTH-AFZ01;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1481155783] wproc: Core Worker 8607: job 0 (pid=8623): Dormant child reaped
+[1481155786] SERVICE ALERT: FTTH-SANTA_ANA03;UPTIME;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1481155798] SERVICE ALERT: FTTH-AFZ01;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1481155809] SERVICE ALERT: FTTH-AFZ01;UPTIME;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1481155813] wproc: Core Worker 8608: job 19 (pid=8729) timed out. Killing it
+[1481155813] wproc: CHECK job 19 from worker Core Worker 8608 timed out after 30.01s
+[1481155813] wproc:   host=FTTH-AFZ01; service=(null);
+[1481155813] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481155813] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481155813] HOST ALERT: FTTH-AFZ01;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1481155813] wproc: Core Worker 8608: job 19 (pid=8729): Dormant child reaped
+[1481155819] SERVICE ALERT: FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;SOFT;2;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155821] SERVICE ALERT: FTTH-SANTA_ANA01;UPTIME;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1481155846] SERVICE ALERT: FTTH-SANTA_ANA03;UPTIME;CRITICAL;SOFT;2;CRITICAL - Plugin timed out while executing system call
+[1481155847] HOST ALERT: FTTH-AFZ01;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1481155857] SERVICE ALERT: FTTH-AFZ01;PING;CRITICAL;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1481155869] SERVICE ALERT: FTTH-AFZ01;UPTIME;CRITICAL;SOFT;2;CRITICAL - Plugin timed out while executing system call
+[1481155877] HOST ALERT: FTTH-AFZ01;DOWN;HARD;4;PING CRITICAL - Packet loss = 100%
+[1481155877] HOST NOTIFICATION: nagiosadmin;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481155877] HOST NOTIFICATION: jeans.espinoza;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481155877] HOST NOTIFICATION: moises.bonilla;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481155877] wproc: NOTIFY job 85 from worker Core Worker 8606 is a non-check helper but exited with return code 127
+[1481155877] wproc:   host=FTTH-AFZ01; service=(none); contact=moises.bonilla
+[1481155877] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155877] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155877] wproc: NOTIFY job 84 from worker Core Worker 8608 is a non-check helper but exited with return code 127
+[1481155877] wproc:   host=FTTH-AFZ01; service=(none); contact=jeans.espinoza
+[1481155877] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155877] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155877] wproc: NOTIFY job 84 from worker Core Worker 8609 is a non-check helper but exited with return code 127
+[1481155877] wproc:   host=FTTH-AFZ01; service=(none); contact=nagiosadmin
+[1481155877] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155877] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155878] SERVICE ALERT: FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;SOFT;3;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155881] SERVICE ALERT: FTTH-SANTA_ANA01;UPTIME;CRITICAL;SOFT;2;CRITICAL - Plugin timed out while executing system call
+[1481155906] SERVICE ALERT: FTTH-SANTA_ANA03;UPTIME;CRITICAL;SOFT;3;CRITICAL - Plugin timed out while executing system call
+[1481155907] wproc: Core Worker 8606: job 86 (pid=9111) timed out. Killing it
+[1481155907] wproc: CHECK job 86 from worker Core Worker 8606 timed out after 30.01s
+[1481155907] wproc:   host=FTTH-AFZ01; service=(null);
+[1481155907] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481155907] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481155907] wproc: Core Worker 8606: job 86 (pid=9111): Dormant child reaped
+[1481155917] SERVICE ALERT: FTTH-AFZ01;PING;CRITICAL;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1481155929] SERVICE ALERT: FTTH-AFZ01;UPTIME;CRITICAL;SOFT;3;CRITICAL - Plugin timed out while executing system call
+[1481155937] SERVICE ALERT: FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;HARD;4;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155937] SERVICE NOTIFICATION: nagiosadmin;FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;notify-service-by-email;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155937] SERVICE NOTIFICATION: jeans.espinoza;FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;notify-service-by-email;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155937] SERVICE NOTIFICATION: moises.bonilla;FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;UNKNOWN;notify-service-by-email;UNKNOWN: Improper interface status, status received: noSuchInstance
+[1481155937] wproc: NOTIFY job 127 from worker Core Worker 8608 is a non-check helper but exited with return code 127
+[1481155937] wproc:   host=FTTH-AMERICAN_DATA02; service=TRONCAL - SABANA01; contact=nagiosadmin
+[1481155937] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155937] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155937] wproc: NOTIFY job 128 from worker Core Worker 8607 is a non-check helper but exited with return code 127
+[1481155937] wproc:   host=FTTH-AMERICAN_DATA02; service=TRONCAL - SABANA01; contact=moises.bonilla
+[1481155937] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155937] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155937] wproc: NOTIFY job 128 from worker Core Worker 8606 is a non-check helper but exited with return code 127
+[1481155937] wproc:   host=FTTH-AMERICAN_DATA02; service=TRONCAL - SABANA01; contact=jeans.espinoza
+[1481155937] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155937] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155937] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481155941] SERVICE ALERT: FTTH-SANTA_ANA01;UPTIME;CRITICAL;SOFT;3;CRITICAL - Plugin timed out while executing system call
+[1481155966] SERVICE ALERT: FTTH-SANTA_ANA03;UPTIME;CRITICAL;HARD;4;CRITICAL - Plugin timed out while executing system call
+[1481155966] SERVICE NOTIFICATION: nagiosadmin;FTTH-SANTA_ANA03;UPTIME;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1481155966] SERVICE NOTIFICATION: jeans.espinoza;FTTH-SANTA_ANA03;UPTIME;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1481155966] SERVICE NOTIFICATION: moises.bonilla;FTTH-SANTA_ANA03;UPTIME;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1481155966] wproc: NOTIFY job 149 from worker Core Worker 8606 is a non-check helper but exited with return code 127
+[1481155966] wproc:   host=FTTH-SANTA_ANA03; service=UPTIME; contact=jeans.espinoza
+[1481155966] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155966] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155966] wproc: NOTIFY job 148 from worker Core Worker 8608 is a non-check helper but exited with return code 127
+[1481155966] wproc:   host=FTTH-SANTA_ANA03; service=UPTIME; contact=nagiosadmin
+[1481155966] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155966] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155966] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481155966] wproc: NOTIFY job 149 from worker Core Worker 8607 is a non-check helper but exited with return code 127
+[1481155966] wproc:   host=FTTH-SANTA_ANA03; service=UPTIME; contact=moises.bonilla
+[1481155966] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481155966] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481155977] SERVICE ALERT: FTTH-AFZ01;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 100%
+[1481155989] SERVICE ALERT: FTTH-AFZ01;UPTIME;CRITICAL;HARD;4;CRITICAL - Plugin timed out while executing system call
+[1481156001] SERVICE ALERT: FTTH-SANTA_ANA01;UPTIME;CRITICAL;HARD;4;CRITICAL - Plugin timed out while executing system call
+[1481156001] SERVICE NOTIFICATION: nagiosadmin;FTTH-SANTA_ANA01;UPTIME;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1481156001] SERVICE NOTIFICATION: jeans.espinoza;FTTH-SANTA_ANA01;UPTIME;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1481156001] SERVICE NOTIFICATION: moises.bonilla;FTTH-SANTA_ANA01;UPTIME;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1481156001] wproc: NOTIFY job 173 from worker Core Worker 8608 is a non-check helper but exited with return code 127
+[1481156001] wproc:   host=FTTH-SANTA_ANA01; service=UPTIME; contact=moises.bonilla
+[1481156001] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481156001] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481156001] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481156001] wproc: NOTIFY job 173 from worker Core Worker 8607 is a non-check helper but exited with return code 127
+[1481156001] wproc:   host=FTTH-SANTA_ANA01; service=UPTIME; contact=nagiosadmin
+[1481156001] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481156001] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481156001] wproc: NOTIFY job 173 from worker Core Worker 8609 is a non-check helper but exited with return code 127
+[1481156001] wproc:   host=FTTH-SANTA_ANA01; service=UPTIME; contact=jeans.espinoza
+[1481156001] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481156001] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481156001] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481156002] wproc: Core Worker 8609: job 154 (pid=9506) timed out. Killing it
+[1481156002] wproc: CHECK job 154 from worker Core Worker 8609 timed out after 30.01s
+[1481156002] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156002] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156002] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156002] wproc: Core Worker 8609: job 154 (pid=9506): Dormant child reaped
+[1481156042] wproc: Core Worker 8608: job 181 (pid=9664) timed out. Killing it
+[1481156042] wproc: CHECK job 181 from worker Core Worker 8608 timed out after 30.01s
+[1481156042] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156042] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156042] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156042] wproc: Core Worker 8608: job 181 (pid=9664): Dormant child reaped
+[1481156065] Caught SIGTERM, shutting down...
+[1481156065] Successfully shutdown... (PID=8604)
+[1481156065] Event broker module 'NERD' deinitialized successfully.
+[1481156065] livestatus: Socket thread has terminated
+[1481156065] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481156066] Nagios 4.2.1 starting... (PID=9901)
+[1481156066] Local time is Wed Dec 07 19:14:26 EST 2016
+[1481156066] LOG VERSION: 2.0
+[1481156066] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481156066] qh: core query handler registered
+[1481156066] nerd: Channel hostchecks registered successfully
+[1481156066] nerd: Channel servicechecks registered successfully
+[1481156066] nerd: Channel opathchecks registered successfully
+[1481156066] nerd: Fully initialized and ready to rock!
+[1481156066] wproc: Successfully registered manager as @wproc with query handler
+[1481156066] wproc: Registry request: name=Core Worker 9903;pid=9903
+[1481156066] wproc: Registry request: name=Core Worker 9905;pid=9905
+[1481156066] wproc: Registry request: name=Core Worker 9906;pid=9906
+[1481156066] wproc: Registry request: name=Core Worker 9904;pid=9904
+[1481156066] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481156066] livestatus: Please visit us at http://mathias-kettner.de/
+[1481156066] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481156066] livestatus: Please visit OMD at http://omdistro.org
+[1481156066] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481156066] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481156066] Successfully launched command file worker with pid 9907
+[1481156066] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481156066] TIMEPERIOD TRANSITION: 8x5;-1;0
+[1481156066] TIMEPERIOD TRANSITION: feriados-cr;-1;0
+[1481156066] TIMEPERIOD TRANSITION: vacaciones;-1;0
+[1481156117] SERVICE ALERT: FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;OK;HARD;4;OK - Average IN: 0b (0.00%), Average OUT: 0b (0.00%)Total RX: 462302.58Gbits, Total TX: 856574.11Gbits
+[1481156117] SERVICE NOTIFICATION: nagiosadmin;FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;OK;notify-service-by-email;OK - Average IN: 0b (0.00%), Average OUT: 0b (0.00%)Total RX: 462302.58Gbits, Total TX: 856574.11Gbits
+[1481156117] SERVICE NOTIFICATION: jeans.espinoza;FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;OK;notify-service-by-email;OK - Average IN: 0b (0.00%), Average OUT: 0b (0.00%)Total RX: 462302.58Gbits, Total TX: 856574.11Gbits
+[1481156117] SERVICE NOTIFICATION: moises.bonilla;FTTH-AMERICAN_DATA02;TRONCAL - SABANA01;OK;notify-service-by-email;OK - Average IN: 0b (0.00%), Average OUT: 0b (0.00%)Total RX: 462302.58Gbits, Total TX: 856574.11Gbits
+[1481156117] wproc: NOTIFY job 38 from worker Core Worker 9905 is a non-check helper but exited with return code 127
+[1481156117] wproc:   host=FTTH-AMERICAN_DATA02; service=TRONCAL - SABANA01; contact=jeans.espinoza
+[1481156117] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481156117] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481156117] wproc: NOTIFY job 38 from worker Core Worker 9906 is a non-check helper but exited with return code 127
+[1481156117] wproc:   host=FTTH-AMERICAN_DATA02; service=TRONCAL - SABANA01; contact=moises.bonilla
+[1481156117] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481156117] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481156117] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481156117] wproc: NOTIFY job 38 from worker Core Worker 9903 is a non-check helper but exited with return code 127
+[1481156117] wproc:   host=FTTH-AMERICAN_DATA02; service=TRONCAL - SABANA01; contact=nagiosadmin
+[1481156117] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481156117] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481156117] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481156147] wproc: Core Worker 9904: job 37 (pid=10130) timed out. Killing it
+[1481156147] wproc: CHECK job 37 from worker Core Worker 9904 timed out after 30.01s
+[1481156147] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156147] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156147] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156147] wproc: Core Worker 9904: job 37 (pid=10130): Dormant child reaped
+[1481156207] wproc: Core Worker 9905: job 80 (pid=10375) timed out. Killing it
+[1481156207] wproc: CHECK job 80 from worker Core Worker 9905 timed out after 30.01s
+[1481156207] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156207] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156207] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156207] wproc: Core Worker 9905: job 80 (pid=10375): Dormant child reaped
+[1481156440] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (241924512390.04%) too high
+[1481156455] Caught SIGTERM, shutting down...
+[1481156455] Successfully shutdown... (PID=9901)
+[1481156455] Event broker module 'NERD' deinitialized successfully.
+[1481156457] livestatus: Socket thread has terminated
+[1481156457] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481156458] Nagios 4.2.1 starting... (PID=11508)
+[1481156458] Local time is Wed Dec 07 19:20:58 EST 2016
+[1481156458] LOG VERSION: 2.0
+[1481156458] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481156458] qh: core query handler registered
+[1481156458] nerd: Channel hostchecks registered successfully
+[1481156458] nerd: Channel servicechecks registered successfully
+[1481156458] nerd: Channel opathchecks registered successfully
+[1481156458] nerd: Fully initialized and ready to rock!
+[1481156458] wproc: Successfully registered manager as @wproc with query handler
+[1481156458] wproc: Registry request: name=Core Worker 11511;pid=11511
+[1481156458] wproc: Registry request: name=Core Worker 11513;pid=11513
+[1481156458] wproc: Registry request: name=Core Worker 11512;pid=11512
+[1481156458] wproc: Registry request: name=Core Worker 11510;pid=11510
+[1481156458] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481156458] livestatus: Please visit us at http://mathias-kettner.de/
+[1481156458] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481156458] livestatus: Please visit OMD at http://omdistro.org
+[1481156458] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481156458] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481156458] Successfully launched command file worker with pid 11514
+[1481156458] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481156458] TIMEPERIOD TRANSITION: 8x5;-1;0
+[1481156458] TIMEPERIOD TRANSITION: feriados-cr;-1;0
+[1481156458] TIMEPERIOD TRANSITION: vacaciones;-1;0
+[1481156499] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 49.43Mb (4.94%), Average OUT: 8.80Mb (0.88%)Total RX: 1107933.79Gbits, Total TX: 727035.26Gbits
+[1481156601] wproc: Core Worker 11512: job 81 (pid=12011) timed out. Killing it
+[1481156601] wproc: CHECK job 81 from worker Core Worker 11512 timed out after 30.01s
+[1481156601] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156601] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156601] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156601] wproc: Core Worker 11512: job 81 (pid=12011): Dormant child reaped
+[1481156639] wproc: Core Worker 11511: job 105 (pid=12143) timed out. Killing it
+[1481156639] wproc: CHECK job 105 from worker Core Worker 11511 timed out after 30.01s
+[1481156639] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156639] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156639] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156639] wproc: Core Worker 11511: job 105 (pid=12143): Dormant child reaped
+[1481156748] wproc: Core Worker 11510: job 180 (pid=12628) timed out. Killing it
+[1481156748] wproc: CHECK job 180 from worker Core Worker 11510 timed out after 30.01s
+[1481156748] wproc:   host=FTTH-AFZ01; service=(null);
+[1481156748] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481156748] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481156748] wproc: Core Worker 11510: job 180 (pid=12628): Dormant child reaped
+[1481157108] wproc: Core Worker 11512: job 429 (pid=14139) timed out. Killing it
+[1481157108] wproc: CHECK job 429 from worker Core Worker 11512 timed out after 30.01s
+[1481157108] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157108] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157108] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481157108] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157108] wproc: Core Worker 11512: job 429 (pid=14139): Dormant child reaped
+[1481157159] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (250125343318.36%) too high
+[1481157178] wproc: Core Worker 11511: job 478 (pid=14447) timed out. Killing it
+[1481157178] wproc: CHECK job 478 from worker Core Worker 11511 timed out after 30.01s
+[1481157178] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157178] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157178] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157178] wproc: Core Worker 11511: job 478 (pid=14447): Dormant child reaped
+[1481157187] Caught SIGTERM, shutting down...
+[1481157187] Successfully shutdown... (PID=11508)
+[1481157187] Event broker module 'NERD' deinitialized successfully.
+[1481157189] livestatus: Socket thread has terminated
+[1481157189] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481157189] Nagios 4.2.1 starting... (PID=14636)
+[1481157189] Local time is Wed Dec 07 19:33:09 EST 2016
+[1481157189] LOG VERSION: 2.0
+[1481157189] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481157189] qh: core query handler registered
+[1481157189] nerd: Channel hostchecks registered successfully
+[1481157189] nerd: Channel servicechecks registered successfully
+[1481157189] nerd: Channel opathchecks registered successfully
+[1481157189] nerd: Fully initialized and ready to rock!
+[1481157189] wproc: Successfully registered manager as @wproc with query handler
+[1481157189] wproc: Registry request: name=Core Worker 14638;pid=14638
+[1481157189] wproc: Registry request: name=Core Worker 14640;pid=14640
+[1481157189] wproc: Registry request: name=Core Worker 14641;pid=14641
+[1481157189] wproc: Registry request: name=Core Worker 14639;pid=14639
+[1481157189] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481157189] livestatus: Please visit us at http://mathias-kettner.de/
+[1481157189] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481157189] livestatus: Please visit OMD at http://omdistro.org
+[1481157189] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481157189] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481157189] Successfully launched command file worker with pid 14642
+[1481157189] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481157189] TIMEPERIOD TRANSITION: 8x5;-1;0
+[1481157189] TIMEPERIOD TRANSITION: feriados-cr;-1;0
+[1481157189] TIMEPERIOD TRANSITION: vacaciones;-1;0
+[1481157220] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 48.05Mb (4.80%), Average OUT: 13.99Mb (1.40%)Total RX: 1107967.24Gbits, Total TX: 727042.83Gbits
+[1481157299] wproc: Core Worker 14638: job 51 (pid=14957) timed out. Killing it
+[1481157299] wproc: CHECK job 51 from worker Core Worker 14638 timed out after 30.01s
+[1481157299] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157299] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157299] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157299] wproc: Core Worker 14638: job 51 (pid=14957): Dormant child reaped
+[1481157358] wproc: Core Worker 14640: job 88 (pid=15191) timed out. Killing it
+[1481157358] wproc: CHECK job 88 from worker Core Worker 14640 timed out after 30.01s
+[1481157358] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157358] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157358] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157358] wproc: Core Worker 14640: job 88 (pid=15191): Dormant child reaped
+[1481157370] Caught SIGTERM, shutting down...
+[1481157370] Successfully shutdown... (PID=14636)
+[1481157370] Event broker module 'NERD' deinitialized successfully.
+[1481157372] livestatus: Socket thread has terminated
+[1481157372] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481157372] Nagios 4.2.1 starting... (PID=15379)
+[1481157372] Local time is Wed Dec 07 19:36:12 EST 2016
+[1481157372] LOG VERSION: 2.0
+[1481157372] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481157372] qh: core query handler registered
+[1481157372] nerd: Channel hostchecks registered successfully
+[1481157372] nerd: Channel servicechecks registered successfully
+[1481157372] nerd: Channel opathchecks registered successfully
+[1481157372] nerd: Fully initialized and ready to rock!
+[1481157372] wproc: Successfully registered manager as @wproc with query handler
+[1481157372] wproc: Registry request: name=Core Worker 15381;pid=15381
+[1481157372] wproc: Registry request: name=Core Worker 15384;pid=15384
+[1481157372] wproc: Registry request: name=Core Worker 15383;pid=15383
+[1481157372] wproc: Registry request: name=Core Worker 15382;pid=15382
+[1481157372] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481157372] livestatus: Please visit us at http://mathias-kettner.de/
+[1481157372] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481157372] livestatus: Please visit OMD at http://omdistro.org
+[1481157372] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481157372] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481157372] Successfully launched command file worker with pid 15385
+[1481157372] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481157372] TIMEPERIOD TRANSITION: 8x5;-1;0
+[1481157372] TIMEPERIOD TRANSITION: feriados-cr;-1;0
+[1481157372] TIMEPERIOD TRANSITION: vacaciones;-1;0
+[1481157419] wproc: Core Worker 15381: job 12 (pid=15457) timed out. Killing it
+[1481157419] wproc: CHECK job 12 from worker Core Worker 15381 timed out after 30.01s
+[1481157419] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157419] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157419] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157419] wproc: Core Worker 15381: job 12 (pid=15457): Dormant child reaped
+[1481157478] wproc: Core Worker 15383: job 49 (pid=15691) timed out. Killing it
+[1481157478] wproc: CHECK job 49 from worker Core Worker 15383 timed out after 30.01s
+[1481157478] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157478] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157478] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157478] wproc: Core Worker 15383: job 49 (pid=15691): Dormant child reaped
+[1481157538] wproc: Core Worker 15383: job 88 (pid=15933) timed out. Killing it
+[1481157538] wproc: CHECK job 88 from worker Core Worker 15383 timed out after 30.01s
+[1481157538] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157538] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157538] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157538] wproc: Core Worker 15383: job 88 (pid=15933): Dormant child reaped
+[1481157658] wproc: Core Worker 15384: job 165 (pid=16420) timed out. Killing it
+[1481157658] wproc: CHECK job 165 from worker Core Worker 15384 timed out after 30.01s
+[1481157658] wproc:   host=FTTH-AFZ01; service=(null);
+[1481157658] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481157658] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481157658] wproc: Core Worker 15384: job 165 (pid=16420): Dormant child reaped
+[1481157712] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 104.02 ms
+[1481157772] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 39.95 ms
+[1481157820] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (122978293796.83%) too high
+[1481157879] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 45.32Mb (2.27%), Average OUT: 10.81Mb (0.54%)Total RX: 1108032.70Gbits, Total TX: 727018.71Gbits
+[1481157940] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256195.05%) too high
+[1481157958] wproc: Core Worker 15381: job 356 (pid=17618) timed out. Killing it
+[1481157958] wproc: Core Worker 15381: job 36510272 with pid 17618 reaped at timeout. timeouts=1; started=379
+[1481158000] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 43.51Mb (2.18%), Average OUT: 6.82Mb (0.34%)Total RX: 1108003.60Gbits, Total TX: 727019.75Gbits
+[1481158600] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256195.18%) too high
+[1481158659] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 50.86Mb (2.54%), Average OUT: 14.54Mb (0.73%)Total RX: 1108036.30Gbits, Total TX: 727028.85Gbits
+[1481158678] wproc: Core Worker 15381: job 816 (pid=20087) timed out. Killing it
+[1481158678] wproc: CHECK job 816 from worker Core Worker 15381 timed out after 30.01s
+[1481158678] wproc:   host=FTTH-AFZ01; service=(null);
+[1481158678] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481158678] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481158678] wproc: Core Worker 15381: job 816 (pid=20087): Dormant child reaped
+[1481158738] wproc: Core Worker 15381: job 855 (pid=20296) timed out. Killing it
+[1481158738] wproc: CHECK job 855 from worker Core Worker 15381 timed out after 30.01s
+[1481158738] wproc:   host=FTTH-AFZ01; service=(null);
+[1481158738] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481158738] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481158738] wproc: Core Worker 15381: job 855 (pid=20296): Dormant child reaped
+[1481158978] wproc: Core Worker 15384: job 1008 (pid=21139) timed out. Killing it
+[1481158978] wproc: CHECK job 1008 from worker Core Worker 15384 timed out after 30.01s
+[1481158978] wproc:   host=FTTH-AFZ01; service=(null);
+[1481158978] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481158978] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481158978] wproc: Core Worker 15384: job 1008 (pid=21139): Dormant child reaped
+[1481159033] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 101.16 ms
+[1481159038] wproc: Core Worker 15381: job 1047 (pid=21345) timed out. Killing it
+[1481159038] wproc: CHECK job 1047 from worker Core Worker 15381 timed out after 30.01s
+[1481159038] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159038] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159038] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159038] wproc: Core Worker 15381: job 1047 (pid=21345): Dormant child reaped
+[1481159092] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 11.55 ms
+[1481159098] wproc: Core Worker 15383: job 1085 (pid=21554) timed out. Killing it
+[1481159098] wproc: CHECK job 1085 from worker Core Worker 15383 timed out after 30.02s
+[1481159098] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159098] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159098] Warning: Check of host 'FTTH-AFZ01' timed out after 30.02 seconds
+[1481159098] wproc: Core Worker 15383: job 1085 (pid=21554): Dormant child reaped
+[1481159158] wproc: Core Worker 15383: job 1123 (pid=21756) timed out. Killing it
+[1481159158] wproc: CHECK job 1123 from worker Core Worker 15383 timed out after 30.01s
+[1481159158] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159158] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159158] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159158] wproc: Core Worker 15383: job 1123 (pid=21756): Dormant child reaped
+[1481159218] wproc: Core Worker 15382: job 1161 (pid=21964) timed out. Killing it
+[1481159218] wproc: CHECK job 1161 from worker Core Worker 15382 timed out after 30.01s
+[1481159218] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159218] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159218] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159218] wproc: Core Worker 15382: job 1161 (pid=21964): Dormant child reaped
+[1481159338] wproc: Core Worker 15383: job 1238 (pid=22375) timed out. Killing it
+[1481159338] wproc: CHECK job 1238 from worker Core Worker 15383 timed out after 30.01s
+[1481159338] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159338] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159338] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159338] wproc: Core Worker 15383: job 1238 (pid=22375): Dormant child reaped
+[1481159398] wproc: Core Worker 15383: job 1276 (pid=22579) timed out. Killing it
+[1481159398] wproc: CHECK job 1276 from worker Core Worker 15383 timed out after 30.01s
+[1481159398] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159398] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159398] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159398] wproc: Core Worker 15383: job 1276 (pid=22579): Dormant child reaped
+[1481159440] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256194.35%) too high
+[1481159458] wproc: Core Worker 15381: job 1315 (pid=22785) timed out. Killing it
+[1481159458] wproc: CHECK job 1315 from worker Core Worker 15381 timed out after 30.01s
+[1481159458] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159458] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159458] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159458] wproc: Core Worker 15381: job 1315 (pid=22785): Dormant child reaped
+[1481159499] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 26.28Mb (1.31%), Average OUT: 23.26Mb (1.16%)Total RX: 1108069.83Gbits, Total TX: 727040.51Gbits
+[1481159518] wproc: Core Worker 15383: job 1353 (pid=22993) timed out. Killing it
+[1481159518] wproc: CHECK job 1353 from worker Core Worker 15383 timed out after 30.01s
+[1481159518] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159518] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159518] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481159518] HOST NOTIFICATION: nagiosadmin;FTTH-AFZ01;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1481159518] HOST NOTIFICATION: jeans.espinoza;FTTH-AFZ01;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1481159518] HOST NOTIFICATION: moises.bonilla;FTTH-AFZ01;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1481159518] wproc: Core Worker 15383: job 1353 (pid=22993): Dormant child reaped
+[1481159518] wproc: NOTIFY job 1376 from worker Core Worker 15382 is a non-check helper but exited with return code 127
+[1481159518] wproc:   host=FTTH-AFZ01; service=(none); contact=moises.bonilla
+[1481159518] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481159518] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481159518] wproc: NOTIFY job 1376 from worker Core Worker 15384 is a non-check helper but exited with return code 127
+[1481159518] wproc:   host=FTTH-AFZ01; service=(none); contact=nagiosadmin
+[1481159518] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481159518] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481159518] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481159518] wproc: NOTIFY job 1376 from worker Core Worker 15383 is a non-check helper but exited with return code 127
+[1481159518] wproc:   host=FTTH-AFZ01; service=(none); contact=jeans.espinoza
+[1481159518] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481159518] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481159758] wproc: Core Worker 15383: job 1508 (pid=23827) timed out. Killing it
+[1481159758] wproc: CHECK job 1508 from worker Core Worker 15383 timed out after 30.00s
+[1481159758] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159758] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159758] Warning: Check of host 'FTTH-AFZ01' timed out after 30.00 seconds
+[1481159758] wproc: Core Worker 15383: job 1508 (pid=23827): Dormant child reaped
+[1481159878] wproc: Core Worker 15383: job 1583 (pid=24232) timed out. Killing it
+[1481159879] wproc: CHECK job 1583 from worker Core Worker 15383 timed out after 31.00s
+[1481159879] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159879] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159879] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481159879] Warning: Check of host 'FTTH-AFZ01' timed out after 31.00 seconds
+[1481159879] wproc: Core Worker 15383: job 1583 (pid=24232): Dormant child reaped
+[1481159938] wproc: Core Worker 15383: job 1622 (pid=24443) timed out. Killing it
+[1481159938] wproc: CHECK job 1622 from worker Core Worker 15383 timed out after 30.42s
+[1481159938] wproc:   host=FTTH-AFZ01; service=(null);
+[1481159938] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481159938] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481159938] Warning: Check of host 'FTTH-AFZ01' timed out after 30.42 seconds
+[1481159938] wproc: Core Worker 15383: job 1622 (pid=24443): Dormant child reaped
+[1481160172] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 127.82 ms
+[1481160232] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1481160458] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256194.53%) too high
+[1481160518] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 31.20Mb (1.56%), Average OUT: 20.58Mb (1.03%)Total RX: 1108104.54Gbits, Total TX: 727098.68Gbits
+[1481160658] wproc: Core Worker 15383: job 2083 (pid=26918) timed out. Killing it
+[1481160658] wproc: CHECK job 2083 from worker Core Worker 15383 timed out after 30.01s
+[1481160658] wproc:   host=FTTH-AFZ01; service=(null);
+[1481160658] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481160658] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481160658] wproc: Core Worker 15383: job 2083 (pid=26918): Dormant child reaped
+[1481160718] wproc: Core Worker 15381: job 2122 (pid=27128) timed out. Killing it
+[1481160718] wproc: CHECK job 2122 from worker Core Worker 15381 timed out after 30.01s
+[1481160718] wproc:   host=FTTH-AFZ01; service=(null);
+[1481160718] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481160718] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481160718] wproc: Core Worker 15381: job 2122 (pid=27128): Dormant child reaped
+[1481160778] wproc: Core Worker 15383: job 2160 (pid=27333) timed out. Killing it
+[1481160778] wproc: CHECK job 2160 from worker Core Worker 15383 timed out after 30.01s
+[1481160778] wproc:   host=FTTH-AFZ01; service=(null);
+[1481160778] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481160778] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481160778] wproc: Core Worker 15383: job 2160 (pid=27333): Dormant child reaped
+[1481160838] wproc: Core Worker 15383: job 2198 (pid=27535) timed out. Killing it
+[1481160838] wproc: CHECK job 2198 from worker Core Worker 15383 timed out after 30.01s
+[1481160838] wproc:   host=FTTH-AFZ01; service=(null);
+[1481160838] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481160838] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481160838] wproc: Core Worker 15383: job 2198 (pid=27535): Dormant child reaped
+[1481160958] wproc: Core Worker 15382: job 2274 (pid=27947) timed out. Killing it
+[1481160958] wproc: CHECK job 2274 from worker Core Worker 15382 timed out after 30.01s
+[1481160958] wproc:   host=FTTH-AFZ01; service=(null);
+[1481160958] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481160958] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481160958] wproc: Core Worker 15382: job 2274 (pid=27947): Dormant child reaped
+[1481160971] Auto-save of retention data completed successfully.
+[1481161017] wproc: Core Worker 15382: job 2311 (pid=28151) timed out. Killing it
+[1481161017] wproc: CHECK job 2311 from worker Core Worker 15382 timed out after 30.01s
+[1481161017] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161017] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161017] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161017] wproc: Core Worker 15382: job 2311 (pid=28151): Dormant child reaped
+[1481161077] wproc: Core Worker 15383: job 2349 (pid=28353) timed out. Killing it
+[1481161077] wproc: CHECK job 2349 from worker Core Worker 15383 timed out after 30.01s
+[1481161077] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161077] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161077] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161077] wproc: Core Worker 15383: job 2349 (pid=28353): Dormant child reaped
+[1481161137] wproc: Core Worker 15381: job 2389 (pid=28562) timed out. Killing it
+[1481161137] wproc: CHECK job 2389 from worker Core Worker 15381 timed out after 30.01s
+[1481161137] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161137] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161137] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161137] wproc: Core Worker 15381: job 2389 (pid=28562): Dormant child reaped
+[1481161257] wproc: Core Worker 15384: job 2466 (pid=28975) timed out. Killing it
+[1481161257] wproc: CHECK job 2466 from worker Core Worker 15384 timed out after 30.01s
+[1481161257] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161257] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161257] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161257] wproc: Core Worker 15384: job 2466 (pid=28975): Dormant child reaped
+[1481161297] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (122978293797.81%) too high
+[1481161317] wproc: Core Worker 15383: job 2504 (pid=29180) timed out. Killing it
+[1481161317] wproc: CHECK job 2504 from worker Core Worker 15383 timed out after 30.01s
+[1481161317] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161317] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161317] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161317] wproc: Core Worker 15383: job 2504 (pid=29180): Dormant child reaped
+[1481161356] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 40.13Mb (2.01%), Average OUT: 36.15Mb (1.81%)Total RX: 1108168.97Gbits, Total TX: 727089.17Gbits
+[1481161377] wproc: Core Worker 15383: job 2542 (pid=29385) timed out. Killing it
+[1481161377] wproc: CHECK job 2542 from worker Core Worker 15383 timed out after 30.01s
+[1481161377] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161377] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161377] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161377] wproc: Core Worker 15383: job 2542 (pid=29385): Dormant child reaped
+[1481161417] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256194.86%) too high
+[1481161438] wproc: Core Worker 15382: job 2581 (pid=29596) timed out. Killing it
+[1481161438] wproc: CHECK job 2581 from worker Core Worker 15382 timed out after 30.07s
+[1481161438] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161438] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161438] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481161438] Warning: Check of host 'FTTH-AFZ01' timed out after 30.07 seconds
+[1481161438] wproc: Core Worker 15382: job 2581 (pid=29596): Dormant child reaped
+[1481161477] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 52.19Mb (2.61%), Average OUT: 34.62Mb (1.73%)Total RX: 1108140.16Gbits, Total TX: 727094.16Gbits
+[1481161492] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 101.31 ms
+[1481161497] wproc: Core Worker 15383: job 2617 (pid=29789) timed out. Killing it
+[1481161497] wproc: CHECK job 2617 from worker Core Worker 15383 timed out after 30.01s
+[1481161497] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161497] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161497] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161497] wproc: Core Worker 15383: job 2617 (pid=29789): Dormant child reaped
+[1481161552] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1481161557] wproc: Core Worker 15381: job 2656 (pid=29995) timed out. Killing it
+[1481161557] wproc: CHECK job 2656 from worker Core Worker 15381 timed out after 30.01s
+[1481161557] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161557] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161557] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161557] wproc: Core Worker 15381: job 2656 (pid=29995): Dormant child reaped
+[1481161617] wproc: Core Worker 15383: job 2695 (pid=30207) timed out. Killing it
+[1481161617] wproc: CHECK job 2695 from worker Core Worker 15383 timed out after 30.01s
+[1481161617] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161617] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161617] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161617] wproc: Core Worker 15383: job 2695 (pid=30207): Dormant child reaped
+[1481161677] wproc: Core Worker 15381: job 2734 (pid=30416) timed out. Killing it
+[1481161677] wproc: CHECK job 2734 from worker Core Worker 15381 timed out after 30.01s
+[1481161677] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161677] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161677] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161677] wproc: Core Worker 15381: job 2734 (pid=30416): Dormant child reaped
+[1481161737] wproc: Core Worker 15381: job 2773 (pid=30624) timed out. Killing it
+[1481161737] wproc: CHECK job 2773 from worker Core Worker 15381 timed out after 30.01s
+[1481161737] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161737] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161737] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161737] wproc: Core Worker 15381: job 2773 (pid=30624): Dormant child reaped
+[1481161797] wproc: Core Worker 15383: job 2811 (pid=30829) timed out. Killing it
+[1481161797] wproc: CHECK job 2811 from worker Core Worker 15383 timed out after 30.01s
+[1481161797] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161797] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161797] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161797] wproc: Core Worker 15383: job 2811 (pid=30829): Dormant child reaped
+[1481161858] wproc: Core Worker 15384: job 2850 (pid=31037) timed out. Killing it
+[1481161858] wproc: CHECK job 2850 from worker Core Worker 15384 timed out after 30.01s
+[1481161858] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161858] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161858] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161858] wproc: Core Worker 15384: job 2850 (pid=31037): Dormant child reaped
+[1481161917] wproc: Core Worker 15382: job 2886 (pid=31236) timed out. Killing it
+[1481161917] wproc: CHECK job 2886 from worker Core Worker 15382 timed out after 30.01s
+[1481161917] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161917] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161917] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161917] wproc: Core Worker 15382: job 2886 (pid=31236): Dormant child reaped
+[1481161977] wproc: Core Worker 15384: job 2925 (pid=31445) timed out. Killing it
+[1481161977] wproc: CHECK job 2925 from worker Core Worker 15384 timed out after 30.01s
+[1481161977] wproc:   host=FTTH-AFZ01; service=(null);
+[1481161977] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481161977] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481161977] wproc: Core Worker 15384: job 2925 (pid=31445): Dormant child reaped
+[1481162037] wproc: Core Worker 15381: job 2965 (pid=31657) timed out. Killing it
+[1481162037] wproc: CHECK job 2965 from worker Core Worker 15381 timed out after 30.01s
+[1481162037] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162037] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162037] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162037] wproc: Core Worker 15381: job 2965 (pid=31657): Dormant child reaped
+[1481162097] wproc: Core Worker 15382: job 3002 (pid=31857) timed out. Killing it
+[1481162097] wproc: CHECK job 3002 from worker Core Worker 15382 timed out after 30.01s
+[1481162097] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162097] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162097] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162097] wproc: Core Worker 15382: job 3002 (pid=31857): Dormant child reaped
+[1481162157] wproc: Core Worker 15384: job 3041 (pid=32062) timed out. Killing it
+[1481162157] wproc: CHECK job 3041 from worker Core Worker 15384 timed out after 30.01s
+[1481162157] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162157] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162157] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162157] wproc: Core Worker 15384: job 3041 (pid=32062): Dormant child reaped
+[1481162197] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256195.58%) too high
+[1481162218] wproc: Core Worker 15381: job 3080 (pid=32272) timed out. Killing it
+[1481162218] wproc: CHECK job 3080 from worker Core Worker 15381 timed out after 30.01s
+[1481162218] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162218] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162218] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162218] wproc: Core Worker 15381: job 3080 (pid=32272): Dormant child reaped
+[1481162257] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 45.27Mb (2.26%), Average OUT: 38.19Mb (1.91%)Total RX: 1108174.39Gbits, Total TX: 727123.76Gbits
+[1481162277] wproc: Core Worker 15383: job 3116 (pid=32471) timed out. Killing it
+[1481162277] wproc: CHECK job 3116 from worker Core Worker 15383 timed out after 30.01s
+[1481162277] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162277] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162277] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162277] wproc: Core Worker 15383: job 3116 (pid=32471): Dormant child reaped
+[1481162338] wproc: Core Worker 15381: job 3157 (pid=32688) timed out. Killing it
+[1481162338] wproc: CHECK job 3157 from worker Core Worker 15381 timed out after 30.01s
+[1481162338] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162338] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162338] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162338] wproc: Core Worker 15381: job 3157 (pid=32688): Dormant child reaped
+[1481162397] wproc: Core Worker 15381: job 3194 (pid=434) timed out. Killing it
+[1481162397] wproc: CHECK job 3194 from worker Core Worker 15381 timed out after 30.01s
+[1481162397] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162397] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162397] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162397] wproc: Core Worker 15381: job 3194 (pid=434): Dormant child reaped
+[1481162458] wproc: Core Worker 15383: job 3233 (pid=668) timed out. Killing it
+[1481162458] wproc: CHECK job 3233 from worker Core Worker 15383 timed out after 30.01s
+[1481162458] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162458] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162458] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162458] wproc: Core Worker 15383: job 3233 (pid=668): Dormant child reaped
+[1481162517] wproc: Core Worker 15382: job 3270 (pid=890) timed out. Killing it
+[1481162517] wproc: CHECK job 3270 from worker Core Worker 15382 timed out after 30.01s
+[1481162517] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162517] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162517] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162517] wproc: Core Worker 15382: job 3270 (pid=890): Dormant child reaped
+[1481162577] wproc: Core Worker 15384: job 3310 (pid=1104) timed out. Killing it
+[1481162577] wproc: CHECK job 3310 from worker Core Worker 15384 timed out after 30.01s
+[1481162577] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162577] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162577] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162577] wproc: Core Worker 15384: job 3310 (pid=1104): Dormant child reaped
+[1481162638] wproc: Core Worker 15382: job 3348 (pid=1311) timed out. Killing it
+[1481162638] wproc: CHECK job 3348 from worker Core Worker 15382 timed out after 30.01s
+[1481162638] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162638] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162638] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162638] wproc: Core Worker 15382: job 3348 (pid=1311): Dormant child reaped
+[1481162697] wproc: Core Worker 15384: job 3386 (pid=1510) timed out. Killing it
+[1481162697] wproc: CHECK job 3386 from worker Core Worker 15384 timed out after 30.01s
+[1481162697] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162697] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162697] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162697] wproc: Core Worker 15384: job 3386 (pid=1510): Dormant child reaped
+[1481162757] wproc: Core Worker 15381: job 3424 (pid=1714) timed out. Killing it
+[1481162757] wproc: CHECK job 3424 from worker Core Worker 15381 timed out after 30.01s
+[1481162757] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162757] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162757] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162757] wproc: Core Worker 15381: job 3424 (pid=1714): Dormant child reaped
+[1481162817] wproc: Core Worker 15381: job 3462 (pid=1926) timed out. Killing it
+[1481162817] wproc: CHECK job 3462 from worker Core Worker 15381 timed out after 30.02s
+[1481162817] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162817] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162817] Warning: Check of host 'FTTH-AFZ01' timed out after 30.02 seconds
+[1481162817] wproc: Core Worker 15381: job 3462 (pid=1926): Dormant child reaped
+[1481162857] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (122978293799.35%) too high
+[1481162877] wproc: Core Worker 15382: job 3500 (pid=2136) timed out. Killing it
+[1481162877] wproc: CHECK job 3500 from worker Core Worker 15382 timed out after 30.01s
+[1481162877] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162877] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162877] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162877] wproc: Core Worker 15382: job 3500 (pid=2136): Dormant child reaped
+[1481162917] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 39.43Mb (1.97%), Average OUT: 18.96Mb (0.95%)Total RX: 1108207.10Gbits, Total TX: 727137.95Gbits
+[1481162938] wproc: Core Worker 15382: job 3540 (pid=2348) timed out. Killing it
+[1481162938] wproc: CHECK job 3540 from worker Core Worker 15382 timed out after 30.01s
+[1481162938] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162938] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162938] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162938] wproc: Core Worker 15382: job 3540 (pid=2348): Dormant child reaped
+[1481162997] wproc: Core Worker 15383: job 3577 (pid=2546) timed out. Killing it
+[1481162997] wproc: CHECK job 3577 from worker Core Worker 15383 timed out after 30.01s
+[1481162997] wproc:   host=FTTH-AFZ01; service=(null);
+[1481162997] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481162997] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481162997] wproc: Core Worker 15383: job 3577 (pid=2546): Dormant child reaped
+[1481163057] wproc: Core Worker 15383: job 3614 (pid=2743) timed out. Killing it
+[1481163057] wproc: CHECK job 3614 from worker Core Worker 15383 timed out after 30.01s
+[1481163057] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163057] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163057] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163057] wproc: Core Worker 15383: job 3614 (pid=2743): Dormant child reaped
+[1481163117] wproc: Core Worker 15383: job 3652 (pid=2949) timed out. Killing it
+[1481163117] wproc: CHECK job 3652 from worker Core Worker 15383 timed out after 30.07s
+[1481163117] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163117] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163117] Warning: Check of host 'FTTH-AFZ01' timed out after 30.07 seconds
+[1481163117] wproc: Core Worker 15383: job 3652 (pid=2949): Dormant child reaped
+[1481163177] wproc: Core Worker 15383: job 3691 (pid=3160) timed out. Killing it
+[1481163177] wproc: CHECK job 3691 from worker Core Worker 15383 timed out after 30.01s
+[1481163177] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163177] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163177] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163177] HOST NOTIFICATION: nagiosadmin;FTTH-AFZ01;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1481163177] HOST NOTIFICATION: jeans.espinoza;FTTH-AFZ01;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1481163177] HOST NOTIFICATION: moises.bonilla;FTTH-AFZ01;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1481163177] wproc: Core Worker 15383: job 3691 (pid=3160): Dormant child reaped
+[1481163177] wproc: NOTIFY job 3715 from worker Core Worker 15381 is a non-check helper but exited with return code 127
+[1481163177] wproc:   host=FTTH-AFZ01; service=(none); contact=moises.bonilla
+[1481163177] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481163177] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481163177] wproc: NOTIFY job 3714 from worker Core Worker 15382 is a non-check helper but exited with return code 127
+[1481163177] wproc:   host=FTTH-AFZ01; service=(none); contact=jeans.espinoza
+[1481163177] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481163177] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481163177] wproc: NOTIFY job 3714 from worker Core Worker 15383 is a non-check helper but exited with return code 127
+[1481163177] wproc:   host=FTTH-AFZ01; service=(none); contact=nagiosadmin
+[1481163177] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481163177] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481163237] wproc: Core Worker 15384: job 3732 (pid=3382) timed out. Killing it
+[1481163237] wproc: CHECK job 3732 from worker Core Worker 15384 timed out after 30.01s
+[1481163237] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163237] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163237] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163237] wproc: Core Worker 15384: job 3732 (pid=3382): Dormant child reaped
+[1481163298] wproc: Core Worker 15382: job 3770 (pid=3589) timed out. Killing it
+[1481163298] wproc: CHECK job 3770 from worker Core Worker 15382 timed out after 30.01s
+[1481163298] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163298] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163298] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163298] wproc: Core Worker 15382: job 3770 (pid=3589): Dormant child reaped
+[1481163357] wproc: Core Worker 15381: job 3808 (pid=3791) timed out. Killing it
+[1481163357] wproc: CHECK job 3808 from worker Core Worker 15381 timed out after 30.01s
+[1481163357] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163357] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163357] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163357] wproc: Core Worker 15381: job 3808 (pid=3791): Dormant child reaped
+[1481163417] wproc: Core Worker 15383: job 3846 (pid=3997) timed out. Killing it
+[1481163417] wproc: CHECK job 3846 from worker Core Worker 15383 timed out after 30.03s
+[1481163417] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163417] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163417] Warning: Check of host 'FTTH-AFZ01' timed out after 30.03 seconds
+[1481163417] wproc: Core Worker 15383: job 3846 (pid=3997): Dormant child reaped
+[1481163477] wproc: Core Worker 15383: job 3885 (pid=4208) timed out. Killing it
+[1481163477] wproc: CHECK job 3885 from worker Core Worker 15383 timed out after 30.01s
+[1481163477] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163477] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163477] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163477] wproc: Core Worker 15383: job 3885 (pid=4208): Dormant child reaped
+[1481163537] wproc: Core Worker 15381: job 3922 (pid=4405) timed out. Killing it
+[1481163537] wproc: CHECK job 3922 from worker Core Worker 15381 timed out after 30.01s
+[1481163537] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163537] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163537] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163537] wproc: Core Worker 15381: job 3922 (pid=4405): Dormant child reaped
+[1481163576] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (125062671660.04%) too high
+[1481163597] wproc: Core Worker 15383: job 3960 (pid=4614) timed out. Killing it
+[1481163597] wproc: CHECK job 3960 from worker Core Worker 15383 timed out after 30.01s
+[1481163597] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163597] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163597] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163597] wproc: Core Worker 15383: job 3960 (pid=4614): Dormant child reaped
+[1481163637] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 42.04Mb (2.10%), Average OUT: 18.90Mb (0.94%)Total RX: 1108242.29Gbits, Total TX: 727184.91Gbits
+[1481163657] wproc: Core Worker 15382: job 3999 (pid=4820) timed out. Killing it
+[1481163657] wproc: CHECK job 3999 from worker Core Worker 15382 timed out after 30.01s
+[1481163657] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163657] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163657] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163657] wproc: Core Worker 15382: job 3999 (pid=4820): Dormant child reaped
+[1481163717] wproc: Core Worker 15383: job 4037 (pid=5024) timed out. Killing it
+[1481163717] wproc: CHECK job 4037 from worker Core Worker 15383 timed out after 30.02s
+[1481163717] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163717] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163717] Warning: Check of host 'FTTH-AFZ01' timed out after 30.02 seconds
+[1481163717] wproc: Core Worker 15383: job 4037 (pid=5024): Dormant child reaped
+[1481163777] wproc: Core Worker 15384: job 4076 (pid=5233) timed out. Killing it
+[1481163777] wproc: CHECK job 4076 from worker Core Worker 15384 timed out after 30.01s
+[1481163777] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163777] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163777] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163777] wproc: Core Worker 15384: job 4076 (pid=5233): Dormant child reaped
+[1481163837] wproc: Core Worker 15381: job 4114 (pid=5437) timed out. Killing it
+[1481163837] wproc: CHECK job 4114 from worker Core Worker 15381 timed out after 30.01s
+[1481163837] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163837] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163837] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163837] wproc: Core Worker 15381: job 4114 (pid=5437): Dormant child reaped
+[1481163897] wproc: Core Worker 15384: job 4153 (pid=5647) timed out. Killing it
+[1481163897] wproc: CHECK job 4153 from worker Core Worker 15384 timed out after 30.01s
+[1481163897] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163897] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163897] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163897] wproc: Core Worker 15384: job 4153 (pid=5647): Dormant child reaped
+[1481163936] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (125062671657.97%) too high
+[1481163957] wproc: Core Worker 15384: job 4192 (pid=5854) timed out. Killing it
+[1481163957] wproc: CHECK job 4192 from worker Core Worker 15384 timed out after 30.01s
+[1481163957] wproc:   host=FTTH-AFZ01; service=(null);
+[1481163957] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481163957] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481163957] wproc: Core Worker 15384: job 4192 (pid=5854): Dormant child reaped
+[1481163997] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 41.65Mb (2.08%), Average OUT: 15.69Mb (0.78%)Total RX: 1108258.75Gbits, Total TX: 727156.74Gbits
+[1481164017] wproc: Core Worker 15382: job 4230 (pid=6061) timed out. Killing it
+[1481164017] wproc: CHECK job 4230 from worker Core Worker 15382 timed out after 30.01s
+[1481164017] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164017] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164017] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164017] wproc: Core Worker 15382: job 4230 (pid=6061): Dormant child reaped
+[1481164077] wproc: Core Worker 15383: job 4267 (pid=6262) timed out. Killing it
+[1481164077] wproc: CHECK job 4267 from worker Core Worker 15383 timed out after 30.01s
+[1481164077] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164077] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164077] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164077] wproc: Core Worker 15383: job 4267 (pid=6262): Dormant child reaped
+[1481164137] wproc: Core Worker 15384: job 4307 (pid=6475) timed out. Killing it
+[1481164137] wproc: CHECK job 4307 from worker Core Worker 15384 timed out after 30.01s
+[1481164137] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164137] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164137] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164137] wproc: Core Worker 15384: job 4307 (pid=6475): Dormant child reaped
+[1481164197] wproc: Core Worker 15382: job 4345 (pid=6682) timed out. Killing it
+[1481164197] wproc: CHECK job 4345 from worker Core Worker 15382 timed out after 30.01s
+[1481164197] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164197] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164197] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164197] wproc: Core Worker 15382: job 4345 (pid=6682): Dormant child reaped
+[1481164257] wproc: Core Worker 15382: job 4383 (pid=6887) timed out. Killing it
+[1481164257] wproc: CHECK job 4383 from worker Core Worker 15382 timed out after 30.02s
+[1481164257] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164257] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164257] Warning: Check of host 'FTTH-AFZ01' timed out after 30.02 seconds
+[1481164257] wproc: Core Worker 15382: job 4383 (pid=6887): Dormant child reaped
+[1481164317] wproc: Core Worker 15384: job 4419 (pid=7082) timed out. Killing it
+[1481164317] wproc: CHECK job 4419 from worker Core Worker 15384 timed out after 30.01s
+[1481164317] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164317] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164317] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164317] wproc: Core Worker 15384: job 4419 (pid=7082): Dormant child reaped
+[1481164355] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (125062671660.36%) too high
+[1481164377] wproc: Core Worker 15382: job 4460 (pid=7306) timed out. Killing it
+[1481164377] wproc: CHECK job 4460 from worker Core Worker 15382 timed out after 30.01s
+[1481164377] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164377] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164377] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164377] wproc: Core Worker 15382: job 4460 (pid=7306): Dormant child reaped
+[1481164416] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 49.56Mb (2.48%), Average OUT: 15.41Mb (0.77%)Total RX: 1108280.29Gbits, Total TX: 727163.47Gbits
+[1481164438] wproc: Core Worker 15383: job 4499 (pid=7514) timed out. Killing it
+[1481164438] wproc: CHECK job 4499 from worker Core Worker 15383 timed out after 30.01s
+[1481164438] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164438] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164438] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164438] wproc: Core Worker 15383: job 4499 (pid=7514): Dormant child reaped
+[1481164572] Auto-save of retention data completed successfully.
+[1481164616] wproc: Core Worker 15383: job 4609 (pid=8104) timed out. Killing it
+[1481164616] wproc: CHECK job 4609 from worker Core Worker 15383 timed out after 30.01s
+[1481164616] wproc:   host=FTTH-AFZ01; service=(null);
+[1481164616] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481164616] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481164616] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481164616] wproc: Core Worker 15383: job 4609 (pid=8104): Dormant child reaped
+[1481165033] wproc: Core Worker 15383: job 4877 (pid=9546) timed out. Killing it
+[1481165033] wproc: CHECK job 4877 from worker Core Worker 15383 timed out after 30.01s
+[1481165033] wproc:   host=FTTH-AFZ01; service=(null);
+[1481165033] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481165033] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481165033] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481165033] wproc: Core Worker 15383: job 4877 (pid=9546): Dormant child reaped
+[1481165136] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (122978293798.19%) too high
+[1481165195] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 35.66Mb (1.78%), Average OUT: 22.53Mb (1.13%)Total RX: 1108310.17Gbits, Total TX: 727180.32Gbits
+[1481165211] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 104.43 ms
+[1481165265] SERVICE ALERT: OS-MONITOREO;Carga OS-MONITOREO;WARNING;SOFT;1;WARNING - load average: 4.06, 2.82, 2.21
+[1481165271] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 12.11 ms
+[1481165325] SERVICE ALERT: OS-MONITOREO;Carga OS-MONITOREO;OK;SOFT;2;OK - load average: 3.47, 2.78, 2.23
+[1481165616] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (122978293797.64%) too high
+[1481165676] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 45.18Mb (2.26%), Average OUT: 21.28Mb (1.06%)Total RX: 1108371.79Gbits, Total TX: 727191.00Gbits
+[1481165693] wproc: Core Worker 15383: job 5299 (pid=11812) timed out. Killing it
+[1481165693] wproc: CHECK job 5299 from worker Core Worker 15383 timed out after 30.00s
+[1481165693] wproc:   host=FTTH-AFZ01; service=(null);
+[1481165693] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481165693] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481165693] Warning: Check of host 'FTTH-AFZ01' timed out after 30.00 seconds
+[1481165693] wproc: Core Worker 15383: job 5299 (pid=11812): Dormant child reaped
+[1481165796] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256194.60%) too high
+[1481165856] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 35.93Mb (1.80%), Average OUT: 22.78Mb (1.14%)Total RX: 1108344.54Gbits, Total TX: 727195.23Gbits
+[1481165873] wproc: Core Worker 15381: job 5414 (pid=12428) timed out. Killing it
+[1481165873] wproc: CHECK job 5414 from worker Core Worker 15381 timed out after 30.00s
+[1481165873] wproc:   host=FTTH-AFZ01; service=(null);
+[1481165873] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481165873] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481165873] Warning: Check of host 'FTTH-AFZ01' timed out after 30.00 seconds
+[1481165873] wproc: Core Worker 15381: job 5414 (pid=12428): Dormant child reaped
+[1481166113] wproc: Core Worker 15384: job 5567 (pid=13270) timed out. Killing it
+[1481166113] wproc: CHECK job 5567 from worker Core Worker 15384 timed out after 30.01s
+[1481166113] wproc:   host=FTTH-AFZ01; service=(null);
+[1481166113] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481166113] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481166113] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481166113] wproc: Core Worker 15384: job 5567 (pid=13270): Dormant child reaped
+[1481166471] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 102.82 ms
+[1481166531] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 6.03 ms
+[1481166576] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256195.90%) too high
+[1481166636] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 52.04Mb (2.60%), Average OUT: 20.21Mb (1.01%)Total RX: 1108382.89Gbits, Total TX: 727245.76Gbits
+[1481166651] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 101.41 ms
+[1481166711] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1481166833] HOST NOTIFICATION: nagiosadmin;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481166833] HOST NOTIFICATION: jeans.espinoza;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481166833] HOST NOTIFICATION: moises.bonilla;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481166833] wproc: NOTIFY job 6051 from worker Core Worker 15383 is a non-check helper but exited with return code 127
+[1481166833] wproc:   host=FTTH-AFZ01; service=(none); contact=nagiosadmin
+[1481166833] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481166833] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481166833] wproc: NOTIFY job 6051 from worker Core Worker 15382 is a non-check helper but exited with return code 127
+[1481166833] wproc:   host=FTTH-AFZ01; service=(none); contact=jeans.espinoza
+[1481166833] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481166833] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481166833] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481166833] wproc: NOTIFY job 6052 from worker Core Worker 15381 is a non-check helper but exited with return code 127
+[1481166833] wproc:   host=FTTH-AFZ01; service=(none); contact=moises.bonilla
+[1481166833] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481166833] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481166833] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481166884] SERVICE ALERT: OS-MONITOREO;Carga OS-MONITOREO;WARNING;SOFT;1;WARNING - load average: 3.50, 2.79, 2.52
+[1481166944] SERVICE ALERT: OS-MONITOREO;Carga OS-MONITOREO;WARNING;SOFT;2;WARNING - load average: 3.49, 2.83, 2.54
+[1481167004] SERVICE ALERT: OS-MONITOREO;Carga OS-MONITOREO;WARNING;SOFT;3;WARNING - load average: 3.23, 2.82, 2.55
+[1481167011] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 100.27 ms
+[1481167064] SERVICE ALERT: OS-MONITOREO;Carga OS-MONITOREO;OK;SOFT;4;OK - load average: 2.12, 2.57, 2.48
+[1481167071] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 8.30 ms
+[1481167174] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (125062671658.96%) too high
+[1481167235] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 48.43Mb (2.42%), Average OUT: 12.16Mb (0.61%)Total RX: 1108414.32Gbits, Total TX: 727256.30Gbits
+[1481167414] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (122978293796.63%) too high
+[1481167475] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 49.43Mb (2.47%), Average OUT: 11.30Mb (0.57%)Total RX: 1108424.94Gbits, Total TX: 727224.87Gbits
+[1481167673] wproc: Core Worker 15381: job 6565 (pid=18668) timed out. Killing it
+[1481167674] wproc: CHECK job 6565 from worker Core Worker 15381 timed out after 31.00s
+[1481167674] wproc:   host=FTTH-AFZ01; service=(null);
+[1481167674] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481167674] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481167674] Warning: Check of host 'FTTH-AFZ01' timed out after 31.00 seconds
+[1481167674] wproc: Core Worker 15381: job 6565 (pid=18668): Dormant child reaped
+[1481168015] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256195.38%) too high
+[1481168075] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 42.04Mb (2.10%), Average OUT: 11.28Mb (0.56%)Total RX: 1108448.29Gbits, Total TX: 727232.15Gbits
+[1481168093] wproc: Core Worker 15384: job 6833 (pid=20107) timed out. Killing it
+[1481168094] wproc: CHECK job 6833 from worker Core Worker 15384 timed out after 31.00s
+[1481168094] wproc:   host=FTTH-AFZ01; service=(null);
+[1481168094] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481168094] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481168094] Warning: Check of host 'FTTH-AFZ01' timed out after 31.00 seconds
+[1481168094] wproc: Core Worker 15384: job 6833 (pid=20107): Dormant child reaped
+[1481168153] wproc: Core Worker 15383: job 6871 (pid=20312) timed out. Killing it
+[1481168153] wproc: Core Worker 15383: job 36192560 with pid 20312 reaped at timeout. timeouts=1; started=6896
+[1481168172] Auto-save of retention data completed successfully.
+[1481168330] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 102.63 ms
+[1481168390] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 2.22 ms
+[1481168813] wproc: Core Worker 15382: job 7292 (pid=22574) timed out. Killing it
+[1481168814] wproc: CHECK job 7292 from worker Core Worker 15382 timed out after 31.00s
+[1481168814] wproc:   host=FTTH-AFZ01; service=(null);
+[1481168814] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481168814] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481168814] Warning: Check of host 'FTTH-AFZ01' timed out after 31.00 seconds
+[1481168814] wproc: Core Worker 15382: job 7292 (pid=22574): Dormant child reaped
+[1481168973] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (125062671659.44%) too high
+[1481169034] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 33.48Mb (1.67%), Average OUT: 9.09Mb (0.45%)Total RX: 1108484.32Gbits, Total TX: 727278.12Gbits
+[1481169773] wproc: Core Worker 15381: job 7906 (pid=25893) timed out. Killing it
+[1481169773] wproc: Core Worker 15381: job 36507056 with pid 25893 reaped at timeout. timeouts=2; started=7931
+[1481169873] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256194.49%) too high
+[1481169933] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 23.80Mb (1.19%), Average OUT: 7.39Mb (0.37%)Total RX: 1108516.59Gbits, Total TX: 727288.72Gbits
+[1481170352] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (122978293796.79%) too high
+[1481170413] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 25.00Mb (1.25%), Average OUT: 14.37Mb (0.72%)Total RX: 1108527.91Gbits, Total TX: 727259.66Gbits
+[1481170433] HOST NOTIFICATION: nagiosadmin;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481170433] HOST NOTIFICATION: jeans.espinoza;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481170433] HOST NOTIFICATION: moises.bonilla;FTTH-AFZ01;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+[1481170433] wproc: NOTIFY job 8351 from worker Core Worker 15382 is a non-check helper but exited with return code 127
+[1481170433] wproc:   host=FTTH-AFZ01; service=(none); contact=nagiosadmin
+[1481170433] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481170433] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481170433] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481170433] wproc: NOTIFY job 8352 from worker Core Worker 15381 is a non-check helper but exited with return code 127
+[1481170433] wproc:   host=FTTH-AFZ01; service=(none); contact=jeans.espinoza
+[1481170433] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481170433] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481170433] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481170433] wproc: NOTIFY job 8352 from worker Core Worker 15384 is a non-check helper but exited with return code 127
+[1481170433] wproc:   host=FTTH-AFZ01; service=(none); contact=moises.bonilla
+[1481170433] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481170433] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481170969] SERVICE ALERT: FTTH-CIS01;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 104.36 ms
+[1481171029] SERVICE ALERT: FTTH-CIS01;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 10.83 ms
+[1481171193] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (120962256194.25%) too high
+[1481171252] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 28.00Mb (1.40%), Average OUT: 14.50Mb (0.73%)Total RX: 1108551.34Gbits, Total TX: 727273.99Gbits
+[1481171693] wproc: Core Worker 15381: job 9133 (pid=32488) timed out. Killing it
+[1481171693] wproc: CHECK job 9133 from worker Core Worker 15381 timed out after 30.01s
+[1481171693] wproc:   host=FTTH-AFZ01; service=(null);
+[1481171693] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481171693] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481171693] wproc: Core Worker 15381: job 9133 (pid=32488): Dormant child reaped
+[1481171772] Auto-save of retention data completed successfully.
+[1481171923] SERVICE ALERT: FTTH-SABANA01;TRONCAL - WORLDCOM01;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (125062671657.30%) too high
+[1481171984] SERVICE ALERT: FTTH-SABANA01;TRONCAL - WORLDCOM01;OK;SOFT;2;OK - Average IN: 333.00Kb (0.02%), Average OUT: 3.47Mb (0.17%)Total RX: 30200.41Gbits, Total TX: 77825.28Gbits
+[1481171993] wproc: Core Worker 15382: job 9324 (pid=1091) timed out. Killing it
+[1481171994] wproc: CHECK job 9324 from worker Core Worker 15382 timed out after 31.00s
+[1481171994] wproc:   host=FTTH-AFZ01; service=(null);
+[1481171994] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481171994] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481171994] Warning: Check of host 'FTTH-AFZ01' timed out after 31.00 seconds
+[1481171994] wproc: Core Worker 15382: job 9324 (pid=1091): Dormant child reaped
+[1481172453] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (122978293797.38%) too high
+[1481172513] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 25.55Mb (1.28%), Average OUT: 8.71Mb (0.44%)Total RX: 1108584.71Gbits, Total TX: 727324.45Gbits
+[1481172593] wproc: Core Worker 15381: job 9708 (pid=3156) timed out. Killing it
+[1481172593] wproc: CHECK job 9708 from worker Core Worker 15381 timed out after 30.01s
+[1481172593] wproc:   host=FTTH-AFZ01; service=(null);
+[1481172593] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1481172593] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1481172593] Warning: Check of host 'FTTH-AFZ01' timed out after 30.01 seconds
+[1481172593] wproc: Core Worker 15381: job 9708 (pid=3156): Dormant child reaped
+[1481172752] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (125062671658.04%) too high
+[1481172813] SERVICE ALERT: FTTH-SABANA01;TRONCAL - AMERICAN_DATA02;OK;SOFT;2;OK - Average IN: 23.20Mb (1.16%), Average OUT: 20.25Mb (1.01%)Total RX: 1108591.97Gbits, Total TX: 727294.72Gbits
+[1481173199] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481173199] TIMEPERIOD TRANSITION: 8x5;0;0
+[1481173199] TIMEPERIOD TRANSITION: feriados-cr;0;0
+[1481173199] TIMEPERIOD TRANSITION: vacaciones;0;0

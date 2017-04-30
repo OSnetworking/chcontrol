@@ -1,0 +1,209 @@
+[1481052567] Nagios 4.2.1 starting... (PID=5396)
+[1481052567] Local time is Tue Dec 06 14:29:27 EST 2016
+[1481052567] LOG VERSION: 2.0
+[1481052567] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481052567] qh: core query handler registered
+[1481052567] nerd: Channel hostchecks registered successfully
+[1481052567] nerd: Channel servicechecks registered successfully
+[1481052567] nerd: Channel opathchecks registered successfully
+[1481052567] nerd: Fully initialized and ready to rock!
+[1481052567] wproc: Successfully registered manager as @wproc with query handler
+[1481052567] wproc: Registry request: name=Core Worker 5398;pid=5398
+[1481052567] wproc: Registry request: name=Core Worker 5400;pid=5400
+[1481052567] wproc: Registry request: name=Core Worker 5401;pid=5401
+[1481052567] wproc: Registry request: name=Core Worker 5399;pid=5399
+[1481052567] Successfully launched command file worker with pid 5402
+[1481052567] HOST ALERT: localhost;DOWN;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052604] SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_load, ...) failed. errno is 2: No such file or directory
+[1481052604] HOST ALERT: localhost;DOWN;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052642] SERVICE ALERT: localhost;Current Users;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_users, ...) failed. errno is 2: No such file or directory
+[1481052642] HOST ALERT: localhost;DOWN;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052664] SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_load, ...) failed. errno is 2: No such file or directory
+[1481052664] HOST ALERT: localhost;DOWN;SOFT;4;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052679] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_http, ...) failed. errno is 2: No such file or directory
+[1481052679] HOST ALERT: localhost;DOWN;SOFT;5;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052702] SERVICE ALERT: localhost;Current Users;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_users, ...) failed. errno is 2: No such file or directory
+[1481052702] HOST ALERT: localhost;DOWN;SOFT;6;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052717] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052717] HOST ALERT: localhost;DOWN;SOFT;7;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052724] SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_load, ...) failed. errno is 2: No such file or directory
+[1481052739] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_http, ...) failed. errno is 2: No such file or directory
+[1481052739] HOST ALERT: localhost;DOWN;SOFT;8;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052754] SERVICE ALERT: localhost;Root Partition;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_disk, ...) failed. errno is 2: No such file or directory
+[1481052754] HOST ALERT: localhost;DOWN;SOFT;9;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052762] SERVICE ALERT: localhost;Current Users;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_users, ...) failed. errno is 2: No such file or directory
+[1481052777] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052777] HOST ALERT: localhost;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052777] HOST NOTIFICATION: nagiosadmin;localhost;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052777] wproc: NOTIFY job 5 from worker Core Worker 5400 is a non-check helper but exited with return code 127
+[1481052777] wproc:   host=localhost; service=(none); contact=nagiosadmin
+[1481052777] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481052777] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481052777] wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+[1481052784] SERVICE ALERT: localhost;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_load, ...) failed. errno is 2: No such file or directory
+[1481052792] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ssh, ...) failed. errno is 2: No such file or directory
+[1481052799] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_http, ...) failed. errno is 2: No such file or directory
+[1481052814] SERVICE ALERT: localhost;Root Partition;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_disk, ...) failed. errno is 2: No such file or directory
+[1481052822] SERVICE ALERT: localhost;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_users, ...) failed. errno is 2: No such file or directory
+[1481052829] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_swap, ...) failed. errno is 2: No such file or directory
+[1481052837] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ping, ...) failed. errno is 2: No such file or directory
+[1481052852] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_ssh, ...) failed. errno is 2: No such file or directory
+[1481052859] SERVICE ALERT: localhost;HTTP;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_http, ...) failed. errno is 2: No such file or directory
+[1481052867] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_procs, ...) failed. errno is 2: No such file or directory
+[1481052874] SERVICE ALERT: localhost;Root Partition;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_disk, ...) failed. errno is 2: No such file or directory
+[1481052889] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_swap, ...) failed. errno is 2: No such file or directory
+[1481052901] SERVICE ALERT: localhost;PING;OK;SOFT;4;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1481052912] SERVICE ALERT: localhost;SSH;OK;SOFT;3;SSH OK - OpenSSH_6.6.1 (protocol 2.0)
+[1481052916] HOST ALERT: localhost;UP;HARD;10;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1481052916] HOST NOTIFICATION: nagiosadmin;localhost;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1481052916] wproc: NOTIFY job 10 from worker Core Worker 5399 is a non-check helper but exited with return code 127
+[1481052916] wproc:   host=localhost; service=(none); contact=nagiosadmin
+[1481052916] wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+[1481052916] wproc:   stderr line 01: /bin/sh: /bin/mail: No such file or directory
+[1481052919] Caught SIGTERM, shutting down...
+[1481052919] Successfully shutdown... (PID=5396)
+[1481052919] Event broker module 'NERD' deinitialized successfully.
+[1481052920] Nagios 4.2.1 starting... (PID=25554)
+[1481052920] Local time is Tue Dec 06 14:35:20 EST 2016
+[1481052920] LOG VERSION: 2.0
+[1481052920] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481052920] qh: core query handler registered
+[1481052920] nerd: Channel hostchecks registered successfully
+[1481052920] nerd: Channel servicechecks registered successfully
+[1481052920] nerd: Channel opathchecks registered successfully
+[1481052920] nerd: Fully initialized and ready to rock!
+[1481052920] wproc: Successfully registered manager as @wproc with query handler
+[1481052920] wproc: Registry request: name=Core Worker 25556;pid=25556
+[1481052920] wproc: Registry request: name=Core Worker 25557;pid=25557
+[1481052920] wproc: Registry request: name=Core Worker 25559;pid=25559
+[1481052920] wproc: Registry request: name=Core Worker 25558;pid=25558
+[1481052920] Successfully launched command file worker with pid 25560
+[1481052927] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 70 processes with STATE = RSZDT
+[1481052934] SERVICE ALERT: localhost;Root Partition;OK;SOFT;4;DISK OK - free space: / 502103 MB (99% inode=99%):
+[1481052935] Caught SIGTERM, shutting down...
+[1481052935] Successfully shutdown... (PID=25554)
+[1481052935] Event broker module 'NERD' deinitialized successfully.
+[1481052936] Nagios 4.2.1 starting... (PID=25630)
+[1481052936] Local time is Tue Dec 06 14:35:36 EST 2016
+[1481052936] LOG VERSION: 2.0
+[1481052936] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481052936] qh: core query handler registered
+[1481052936] nerd: Channel hostchecks registered successfully
+[1481052936] nerd: Channel servicechecks registered successfully
+[1481052936] nerd: Channel opathchecks registered successfully
+[1481052936] nerd: Fully initialized and ready to rock!
+[1481052936] wproc: Successfully registered manager as @wproc with query handler
+[1481052936] wproc: Registry request: name=Core Worker 25632;pid=25632
+[1481052936] wproc: Registry request: name=Core Worker 25633;pid=25633
+[1481052936] wproc: Registry request: name=Core Worker 25635;pid=25635
+[1481052936] wproc: Registry request: name=Core Worker 25634;pid=25634
+[1481052936] Successfully launched command file worker with pid 25636
+[1481052949] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;3;SWAP OK - 100% free (8191 MB out of 8191 MB)
+[1481053084] SERVICE ALERT: localhost;Current Load;OK;HARD;4;OK - load average: 0.06, 0.15, 0.15
+[1481053122] SERVICE ALERT: localhost;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1481053159] SERVICE ALERT: localhost;HTTP;OK;HARD;4;HTTP OK: HTTP/1.1 200 OK - 663 bytes in 0.001 second response time
+[1481053609] Caught SIGTERM, shutting down...
+[1481053610] Successfully shutdown... (PID=25630)
+[1481053610] Event broker module 'NERD' deinitialized successfully.
+[1481053611] Nagios 4.2.1 starting... (PID=28047)
+[1481053611] Local time is Tue Dec 06 14:46:51 EST 2016
+[1481053611] LOG VERSION: 2.0
+[1481053611] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481053611] qh: core query handler registered
+[1481053611] nerd: Channel hostchecks registered successfully
+[1481053611] nerd: Channel servicechecks registered successfully
+[1481053611] nerd: Channel opathchecks registered successfully
+[1481053611] nerd: Fully initialized and ready to rock!
+[1481053611] wproc: Successfully registered manager as @wproc with query handler
+[1481053611] wproc: Registry request: name=Core Worker 28049;pid=28049
+[1481053611] wproc: Registry request: name=Core Worker 28051;pid=28051
+[1481053611] wproc: Registry request: name=Core Worker 28052;pid=28052
+[1481053611] wproc: Registry request: name=Core Worker 28050;pid=28050
+[1481053611] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481053611] livestatus: Please visit us at http://mathias-kettner.de/
+[1481053611] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481053611] livestatus: Please visit OMD at http://omdistro.org
+[1481053611] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481053611] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481053611] Successfully launched command file worker with pid 28053
+[1481053611] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481053611] TIMEPERIOD TRANSITION: 24x7_sans_holidays;-1;1
+[1481053611] TIMEPERIOD TRANSITION: none;-1;0
+[1481053611] TIMEPERIOD TRANSITION: us-holidays;-1;0
+[1481053611] TIMEPERIOD TRANSITION: workhours;-1;1
+[1481054049] Caught SIGTERM, shutting down...
+[1481054049] Successfully shutdown... (PID=28047)
+[1481054049] Event broker module 'NERD' deinitialized successfully.
+[1481054051] livestatus: Socket thread has terminated
+[1481054051] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481054052] Nagios 4.2.1 starting... (PID=29089)
+[1481054052] Local time is Tue Dec 06 14:54:12 EST 2016
+[1481054052] LOG VERSION: 2.0
+[1481054052] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481054052] qh: core query handler registered
+[1481054052] nerd: Channel hostchecks registered successfully
+[1481054052] nerd: Channel servicechecks registered successfully
+[1481054052] nerd: Channel opathchecks registered successfully
+[1481054052] nerd: Fully initialized and ready to rock!
+[1481054052] wproc: Successfully registered manager as @wproc with query handler
+[1481054052] wproc: Registry request: name=Core Worker 29091;pid=29091
+[1481054052] wproc: Registry request: name=Core Worker 29092;pid=29092
+[1481054052] wproc: Registry request: name=Core Worker 29094;pid=29094
+[1481054052] wproc: Registry request: name=Core Worker 29093;pid=29093
+[1481054052] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481054052] livestatus: Please visit us at http://mathias-kettner.de/
+[1481054052] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481054052] livestatus: Please visit OMD at http://omdistro.org
+[1481054052] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481054052] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481054052] Successfully launched command file worker with pid 29095
+[1481054052] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481054052] TIMEPERIOD TRANSITION: 24x7_sans_holidays;-1;1
+[1481054052] TIMEPERIOD TRANSITION: none;-1;0
+[1481054052] TIMEPERIOD TRANSITION: us-holidays;-1;0
+[1481054052] TIMEPERIOD TRANSITION: workhours;-1;1
+[1481057652] Auto-save of retention data completed successfully.
+[1481059497] Caught SIGTERM, shutting down...
+[1481059497] Successfully shutdown... (PID=29089)
+[1481059497] Event broker module 'NERD' deinitialized successfully.
+[1481059497] livestatus: Socket thread has terminated
+[1481059497] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1481059498] Nagios 4.2.1 starting... (PID=28218)
+[1481059498] Local time is Tue Dec 06 16:24:58 EST 2016
+[1481059498] LOG VERSION: 2.0
+[1481059498] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1481059498] qh: core query handler registered
+[1481059498] nerd: Channel hostchecks registered successfully
+[1481059498] nerd: Channel servicechecks registered successfully
+[1481059498] nerd: Channel opathchecks registered successfully
+[1481059498] nerd: Fully initialized and ready to rock!
+[1481059498] wproc: Successfully registered manager as @wproc with query handler
+[1481059498] wproc: Registry request: name=Core Worker 28222;pid=28222
+[1481059498] wproc: Registry request: name=Core Worker 28221;pid=28221
+[1481059498] wproc: Registry request: name=Core Worker 28223;pid=28223
+[1481059498] wproc: Registry request: name=Core Worker 28220;pid=28220
+[1481059498] livestatus: Livestatus 1.2.8p4 by Mathias Kettner. Socket: '/usr/local/nagios/var/rw/live'
+[1481059498] livestatus: Please visit us at http://mathias-kettner.de/
+[1481059498] livestatus: Hint: please try out OMD - the Open Monitoring Distribution
+[1481059498] livestatus: Please visit OMD at http://omdistro.org
+[1481059498] livestatus: Finished initialization. Further log messages go to /usr/local/nagios/var/livestatus.log
+[1481059498] Event broker module '/usr/local/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1481059498] Successfully launched command file worker with pid 28224
+[1481059498] TIMEPERIOD TRANSITION: 24x7;-1;1
+[1481059498] TIMEPERIOD TRANSITION: 24x7_sans_holidays;-1;1
+[1481059498] TIMEPERIOD TRANSITION: none;-1;0
+[1481059498] TIMEPERIOD TRANSITION: us-holidays;-1;0
+[1481059498] TIMEPERIOD TRANSITION: workhours;-1;1
+[1481061607] TIMEPERIOD TRANSITION: workhours;1;0
+[1481063098] Auto-save of retention data completed successfully.
+[1481066698] Auto-save of retention data completed successfully.
+[1481070298] Auto-save of retention data completed successfully.
+[1481073898] Auto-save of retention data completed successfully.
+[1481077498] Auto-save of retention data completed successfully.
+[1481081098] Auto-save of retention data completed successfully.
+[1481084698] Auto-save of retention data completed successfully.
+[1481086799] TIMEPERIOD TRANSITION: 24x7;1;1
+[1481086799] TIMEPERIOD TRANSITION: 24x7_sans_holidays;1;1
+[1481086799] TIMEPERIOD TRANSITION: none;0;0
+[1481086799] TIMEPERIOD TRANSITION: us-holidays;0;0
+[1481086799] TIMEPERIOD TRANSITION: workhours;0;0

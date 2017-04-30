@@ -1,0 +1,17 @@
+WARNING: Warnings in config files - see log for details: /usr/local/nagios/var/nagios.configtest
+Error: Could not find a service matching host name 'INASOL-CTP01' and description 'INASOL - CTP01' (config file '/usr/local/nagios/etc/objects/servicegroup-inasol.cfg', starting on line 15)
+Error: Could not find a service matching host name 'FTTH-ZAPOTE01' and description 'WORLDCOM [PROMERICA - F0/11]' (config file '/usr/local/nagios/etc/objects/servicegroup-ftth.cfg', starting on line 31)
+Error: Could not find a service matching host name 'FTTH-WORLDCOM01' and description 'WORLDCOM [PROMERICA - G1/0/5]' (config file '/usr/local/nagios/etc/objects/servicegroup-ftth.cfg', starting on line 24)
+Error: Could not find a service matching host name 'FTTH-SANTA_ANA01' and description 'AMERICAN DATA [PRISMAN BUSSINES - F0/6]' (config file '/usr/local/nagios/etc/objects/servicegroup-ftth.cfg', starting on line 15)
+Error: Could not find a service matching host name 'FTTH-AMERICAN_DATA01' and description 'AMERICAN DATA [PLAZA MAYOR - F0/8]' (config file '/usr/local/nagios/etc/objects/servicegroup-ftth.cfg', starting on line 8)
+Warning: Service 'Carga OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'Espacio en disco OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'Espacio en swap OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'PING OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'Procesos OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'SSH OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'Usuarios conectados OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Service 'WEB Nagios OS-MONITOREO' on host 'OS-MONITOREO' has no default contacts or contactgroups defined!
+Warning: Host 'INASOL-OFICINA' has no default contacts or contactgroups defined!
+Warning: Host 'INASOL-STEVEN' has no default contacts or contactgroups defined!
+Warning: Host 'OS-MONITOREO' has no default contacts or contactgroups defined!
